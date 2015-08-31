@@ -1,4 +1,4 @@
-PROBLEMA
+﻿PROBLEMA
 ========
 Dado o seguinte log de um jogo de tiro em primeira pessoa:
 
@@ -37,3 +37,6 @@ ENTREGA
 * Utilize o arquivo SUAS-INSTRUÇÕES.txt para adicionar algum comentário/observação que achar importante.
 
 BOA SORTE!
+
+
+Execute a classe executor.
